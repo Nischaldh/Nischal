@@ -75,7 +75,7 @@ export const myProjects = [
       border: "0.2px solid #1E293B",
       boxShadow: "0px 0px 60px 0px #3B82F64D",
     },
-    spotlight: "/assets/overflow_spotlight.png",
+    spotlight: "/assets/spotlight2.png",
     tags: [
       {
         id: 1,
@@ -116,7 +116,7 @@ export const myProjects = [
       border: "0.2px solid #2D2D44",
       boxShadow: "0px 0px 60px 0px #5C5C9D4D",
     },
-    spotlight: "/assets/chatify_spotlight.png",
+    spotlight: "/assets/spotlight3.png",
     tags: [
       {
         id: 1,
