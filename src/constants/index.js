@@ -27,7 +27,7 @@ export const myProjects = [
     desc: "HamroByapar is a platform designed to connect buyers and sellers in Nepal. It allows sellers to list their products while providing buyers with an easy way to browse and make purchases. The platform also includes a government dashboard to monitor tax collection and user management, ensuring smooth transactions and compliance with regulations.",
     subdesc:
       "Built as a unique E-commerce app with React.js, Tailwind CSS, JavaScript, Express.js and PostgreSQL.",
-    href: "#",
+    href: "https://hamro-byapar.vercel.app",
     texture: "/textures/project/HamroByapar.mov",
     logoStyle: {
       backgroundColor: "#2A1816",
@@ -68,7 +68,7 @@ export const myProjects = [
     desc: "OverFlow is a modern Q&A platform inspired by sites like Stack Overflow. It allows users to post questions, provide answers, upvote/downvote content, and interact with tags. The platform also includes a hybrid recommendation system that suggests relevant questions based on user interactions, ensuring a personalized and engaging experience.",
     subdesc:
       "Built as a full-stack web application using Next.js, TypeScript, Tailwind CSS, Node.js, and MongoDB, with real-time features and intelligent content recommendations.",
-    href: "#",
+    href: "https://over-flow-one.vercel.app",
     texture: "/textures/project/OverFlow.mov",
     logoStyle: {
       backgroundColor: "#0F172A",
@@ -109,7 +109,7 @@ export const myProjects = [
     desc: "Chatify is a real-time web chat application that allows users to communicate instantly. It supports user authentication, private messaging, and live updates using WebSockets. The app ensures secure interactions while providing a smooth and responsive messaging experience.",
     subdesc:
       "Built as a full-stack application using the MERN stack (MongoDB, Express.js, React.js, Node.js) with Socket.io for real-time communication and JWT-based authentication.",
-    href: "#",
+    href: "https://chatify-indol-two.vercel.app",
     texture: "/textures/project/Chatify.mov",
     logoStyle: {
       backgroundColor: "#1E1E2F",
