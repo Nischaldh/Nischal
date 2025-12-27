@@ -141,7 +141,7 @@ export const myProjects = [
       {
         id: 5,
         name: "Socket.io",
-        path: "/assets/socketio.png",
+        path: "/assets/socketio.svg",
       },
     ],
   },
